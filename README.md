@@ -6,3 +6,6 @@ This code requires the following packages:
 - async
 - sensortag
 - node-rest-client (optional)
+
+sensortag.js: connect to a single, unspecified, TI Sensortag to retrieve temp, lux and humidity data
+sensortagselected.js: only connect to specified TI Sensortag addresses to retrieve temp, lux and humidity data
